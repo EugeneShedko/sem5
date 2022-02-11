@@ -1,0 +1,19 @@
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\bin\Debug\NetworkRouting.exe
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\bin\Debug\NetworkRouting.pdb
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.Form1.resources
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.Properties.Resources.resources
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.csproj.GenerateResource.Cache
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.exe
+C:\Users\Cameron\Desktop\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.pdb
+C:\Users\Ben\Development\cs312\NetworkRouting\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.exe
+C:\Users\Ben\Development\cs312\NetworkRouting\NetworkRouting\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\bin\Debug\NetworkRouting.exe
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\bin\Debug\NetworkRouting.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.Form1.resources
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.Properties.Resources.resources
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.csproj.GenerateResource.cache
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.exe
+D:\Учеба\6 сем\МОПС\Lab 5\CS312-Lab3-master\NetworkRouting\NetworkRouting\obj\x86\Debug\NetworkRouting.pdb

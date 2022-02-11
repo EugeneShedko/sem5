@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEqgbtR4bSgJOjfmVzlxOL+UL0poBhbdYyN55Z8lKVEXLixVMzvBfScOKdp0AQrI4lv7ktCXha+BLxih/xV/Bg==",
+  "success": true,
+  "projectFilePath": "D:\\Учеба\\Математические основы обработки и анализа информации\\Лабораторная работа №4\\Лаба 4\\Лаба 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evgen\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

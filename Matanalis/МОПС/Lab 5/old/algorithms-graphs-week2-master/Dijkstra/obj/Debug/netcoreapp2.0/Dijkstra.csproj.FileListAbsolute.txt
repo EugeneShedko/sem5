@@ -1,0 +1,34 @@
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dijkstra.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dijkstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.deps.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.runtimeconfig.dev.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfoInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.AssemblyInfo.cs
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\Dijkstra\obj\Debug\netcoreapp2.0\Dijkstra.genruntimeconfig.cache

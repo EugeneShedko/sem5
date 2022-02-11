@@ -1,0 +1,70 @@
+﻿<Window x:Class="DijkstraVisualizer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DijkstraVisualizer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920"
+        ResizeMode="CanMinimize"
+        WindowState="Maximized">
+    <Grid Name ="MainGrid" MouseRightButtonDown="MainGrid_OnMouseRightButtonDown">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas
+            Name="DrawCanvas"
+            Background="White"
+            Grid.Column="0" 
+            Grid.Row="0"
+            MouseDown="DrawCanvas_OnMouseDown">
+
+        </Canvas>
+        <Grid
+            Column="1" Background="DarkGray">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnAddNode" Click="BtnAddNode_OnClick">
+                        <TextBlock TextWrapping="Wrap">Add Node</TextBlock></Button>
+
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnClearNetwork" Click="BtnClearNetwork_OnClick">
+                        <TextBlock TextWrapping="Wrap">Clear Network</TextBlock>
+                    </Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnAddConnection" Click="BtnAddConnection_OnClick">
+                        <TextBlock TextWrapping="Wrap">Add Connection</TextBlock>
+                    </Button>
+
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnFindRoute" Click="BtnFindRoute_OnClick">
+                        <TextBlock TextWrapping="Wrap">Find Route</TextBlock>
+                    </Button>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnAutoConnect" Click="BtnAutoConnect_OnClick">
+                        <TextBlock TextWrapping="Wrap">Auto Connect</TextBlock>
+                    </Button>
+
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnCreateRandom" Click="BtnCreateRandom_OnClick">
+                        <TextBlock TextWrapping="Wrap">Create Random Nodes</TextBlock>
+                    </Button>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnNetworkImport" Click="BtnNetworkImport_OnClick">
+                        <TextBlock TextWrapping="Wrap">Import Network</TextBlock>
+                    </Button>
+
+                    <Button Height="100" Width="125" FontSize="20" Name="BtnNetworkExport" Click="BtnNetworkExport_OnClick">
+                        <TextBlock TextWrapping="Wrap">Export Network</TextBlock>
+                    </Button>
+                </StackPanel>
+
+                <TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Center" Name="TextBlockCurrentSelection" FontSize="20" FontWeight="Bold"></TextBlock>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

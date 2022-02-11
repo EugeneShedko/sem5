@@ -1,0 +1,11 @@
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dykstra.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dykstra.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dykstra.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dykstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\bin\Debug\netcoreapp2.0\Dykstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\Dykstra\obj\Debug\netcoreapp2.0\Dykstra.pdb

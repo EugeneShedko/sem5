@@ -1,0 +1,50 @@
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\Dijkstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DijkstraTest\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.deps.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.runtimeconfig.dev.json
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\DijkstraTest.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\Dijkstra.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\bin\Debug\netcoreapp2.0\Dijkstra.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfoInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.AssemblyInfo.cs
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.csproj.CopyComplete
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.dll
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\algorithms-graphs-week2-master\DijkstraTest\obj\Debug\netcoreapp2.0\DijkstraTest.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\App.g.cs
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\MainWindow.baml
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Учёба 3 курс 1 сем\Мат.анализ инф\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\bin\Debug\WpfApp1.exe.config
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\bin\Debug\WpfApp1.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\bin\Debug\WpfApp1.pdb
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\MainWindow.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\App.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\MainWindow.baml
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.g.resources
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №3\lab3\obj\Debug\WpfApp1.pdb

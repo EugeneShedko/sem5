@@ -1,0 +1,40 @@
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\App.g.cs
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\Lab2.exe.config
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\Lab2.exe
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\Lab2.pdb
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\OxyPlot.dll
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\OxyPlot.Wpf.dll
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\OxyPlot.xml
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\bin\Debug\OxyPlot.Wpf.xml
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\MainWindow.baml
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.g.resources
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.exe
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.pdb
+F:\!Labs3dCoursed\MatAn\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\OxyPlot.dll
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\OxyPlot.Wpf.dll
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\OxyPlot.xml
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\bin\Debug\OxyPlot.Wpf.xml
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\App.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\MainWindow.baml
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.g.resources
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.csproj.CopyComplete
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №2\Lab2\Lab2\obj\Debug\Lab2.pdb

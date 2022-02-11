@@ -1,0 +1,20 @@
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\bin\Debug\MathNet.Numerics.dll
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\bin\Debug\MathNet.Numerics.xml
+D:\Labs\MatAnalysys\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\bin\Debug\MathNet.Numerics.dll
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\bin\Debug\MathNet.Numerics.xml
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Учеба\Математические основы обработки и анализа информации\Лабораторная работа №1\Lab1\Lab1\obj\Debug\Lab1.pdb

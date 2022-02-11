@@ -1,0 +1,14 @@
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.exe.config
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.exe
+E:\University\MOPS\LWs\LW7\LW7\LW7\bin\Debug\LW7.pdb
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.csprojAssemblyReference.cache
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.csproj.CoreCompileInputs.cache
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.exe
+E:\University\MOPS\LWs\LW7\LW7\LW7\obj\Debug\LW7.pdb
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\bin\Debug\LW7.exe.config
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\bin\Debug\LW7.exe
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\bin\Debug\LW7.pdb
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\obj\Debug\LW7.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\obj\Debug\LW7.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\obj\Debug\LW7.exe
+D:\Учеба\6 сем\МОПС\Lab 7\LW7\LW7\LW7\obj\Debug\LW7.pdb

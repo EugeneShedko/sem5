@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Учёба 3 курс 1 сем\\Мат.анализ инф\\Лаба 5\\Лаба 5.csproj": {}
+  },
+  "projects": {
+    "D:\\Учёба 3 курс 1 сем\\Мат.анализ инф\\Лаба 5\\Лаба 5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Учёба 3 курс 1 сем\\Мат.анализ инф\\Лаба 5\\Лаба 5.csproj",
+        "projectName": "Лаба 5",
+        "projectPath": "D:\\Учёба 3 курс 1 сем\\Мат.анализ инф\\Лаба 5\\Лаба 5.csproj",
+        "packagesPath": "C:\\Users\\Евгений\\.nuget\\packages\\",
+        "outputPath": "D:\\Учёба 3 курс 1 сем\\Мат.анализ инф\\Лаба 5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Евгений\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

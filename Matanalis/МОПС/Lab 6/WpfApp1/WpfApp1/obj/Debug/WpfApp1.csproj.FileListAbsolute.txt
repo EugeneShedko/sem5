@@ -1,0 +1,30 @@
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Учеба\6 сем\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Учеба\Математические основы обработки и анализа информации\МОПС\Lab 6\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\DykstraTest.deps.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\DykstraTest.runtimeconfig.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\DykstraTest.runtimeconfig.dev.json
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\DykstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\DykstraTest.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\Dykstra.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\bin\Release\netcoreapp2.0\Dykstra.pdb
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.AssemblyInfo.cs
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.dll
+C:\projects\C#\Coursera\algorithms-graphs\week2\DykstraTest\obj\Release\netcoreapp2.0\DykstraTest.pdb

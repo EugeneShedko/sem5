@@ -1,0 +1,14 @@
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.exe.config
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.exe
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.pdb
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.csprojAssemblyReference.cache
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.csproj.CoreCompileInputs.cache
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.exe
+C:\Users\dgdom\source\repos\MinimumCostPathFinding\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.exe.config
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.exe
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\bin\Debug\MinimumCostPathFinding.pdb
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.csprojAssemblyReference.cache
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.csproj.CoreCompileInputs.cache
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.exe
+D:\Учеба\6 сем\МОПС\Lab 5\MinimumCostPathFinding-master\MinimumCostPathFinding\obj\Debug\MinimumCostPathFinding.pdb
