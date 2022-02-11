@@ -1,0 +1,67 @@
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+C:\Users\alina\Desktop\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.csprojAssemblyReference.cache
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+C:\Users\alina\Desktop\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.csprojAssemblyReference.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.csprojAssemblyReference.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+D:\ФИТ\3ий курс\1ый семестр\ЗИНИС\Лабораторные\lab11\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.AssemblyReference.cache
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+D:\Учёба 3 курс 1 сем\Защита информации\Лабы\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.deps.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.runtimeconfig.dev.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\bin\Debug\netcoreapp3.1\lab11.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.AssemblyReference.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfoInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.AssemblyInfo.cs
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.csproj.CoreCompileInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №11\lab11\obj\Debug\netcoreapp3.1\lab11.genruntimeconfig.cache

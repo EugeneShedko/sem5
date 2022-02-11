@@ -1,0 +1,27 @@
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csprojAssemblyReference.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.AssemblyReference.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №9\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache

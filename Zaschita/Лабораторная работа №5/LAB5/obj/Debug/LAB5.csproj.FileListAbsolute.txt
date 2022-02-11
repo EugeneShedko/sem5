@@ -1,0 +1,14 @@
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\bin\Debug\LAB5.exe.config
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\bin\Debug\LAB5.exe
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\bin\Debug\LAB5.pdb
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\obj\Debug\LAB5.csprojAssemblyReference.cache
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\obj\Debug\LAB5.exe
+D:\3 КУРС\Защита\Моя 5 лаба\LAB5\obj\Debug\LAB5.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\bin\Debug\LAB5.exe.config
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\bin\Debug\LAB5.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\bin\Debug\LAB5.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\obj\Debug\LAB5.csproj.AssemblyReference.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\obj\Debug\LAB5.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №5\LAB5\obj\Debug\LAB5.pdb

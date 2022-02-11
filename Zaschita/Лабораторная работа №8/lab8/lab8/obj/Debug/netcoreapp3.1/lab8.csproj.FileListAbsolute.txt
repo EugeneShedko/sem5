@@ -1,0 +1,27 @@
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.exe
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.deps.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.dev.json
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.dll
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.pdb
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csprojAssemblyReference.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.CoreCompileInputs.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfoInputs.cache
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfo.cs
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.dll
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.pdb
+D:\3 курс\1 семестр\ЗИиНИС\Лабы\L8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.genruntimeconfig.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.deps.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.runtimeconfig.dev.json
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\bin\Debug\netcoreapp3.1\lab8.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.AssemblyReference.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfoInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.AssemblyInfo.cs
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.csproj.CoreCompileInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.dll
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №8\lab8\lab8\obj\Debug\netcoreapp3.1\lab8.genruntimeconfig.cache

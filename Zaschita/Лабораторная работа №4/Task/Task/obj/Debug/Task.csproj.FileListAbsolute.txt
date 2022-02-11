@@ -1,0 +1,14 @@
+D:\Labs\Security\Lab4\Task\Task\bin\Debug\Task.exe.config
+D:\Labs\Security\Lab4\Task\Task\bin\Debug\Task.exe
+D:\Labs\Security\Lab4\Task\Task\bin\Debug\Task.pdb
+D:\Labs\Security\Lab4\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\Labs\Security\Lab4\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Labs\Security\Lab4\Task\Task\obj\Debug\Task.exe
+D:\Labs\Security\Lab4\Task\Task\obj\Debug\Task.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\bin\Debug\Task.exe.config
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\bin\Debug\Task.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\bin\Debug\Task.pdb
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\obj\Debug\Task.exe
+D:\Учеба\Защита информации и надежность информационных систем\Лабораторная работа №4\Task\Task\obj\Debug\Task.pdb
