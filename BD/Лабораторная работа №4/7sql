@@ -1,0 +1,10 @@
+create table SSA_table(x int, s int);
+
+insert into SSA_table(x,s) values(1, 2);
+insert into SSA_table(x,s) values(3, 4);
+
+select * from SSA_table;
+
+select FILE_NAME, TABLESPACE_NAME, STATUS from DBA_DATA_FILES
+UNION
+select FILE_NAME, TABLESPACE_NAME, STATUS from DBA_TEMP_FILES;

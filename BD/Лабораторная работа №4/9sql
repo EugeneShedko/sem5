@@ -1,0 +1,3 @@
+create user C##SSA identified by 1122;
+
+grant create session to C##SSA;

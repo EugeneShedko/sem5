@@ -1,0 +1,61 @@
+
+drop table XXX_t
+
+create table XXX_t( x number(3) primary key, s varchar2(50));
+
+insert all
+into XXX_t(x,s) values ( 500, 'b')
+into XXX_t(x,s) values ( 223, 'b')
+into XXX_t(x,s) values ( 323, 'c')
+select * from dual
+commit
+      
+select * from XXX_t
+
+update XXX_t set x = 600 where x = 500 or x = 323
+commit
+
+select sum(x)
+from XXX_t
+
+select s 
+from XXX_t
+where x = 600
+
+delete from XXX_t where x = 123
+
+create table XXX_t1
+(
+  xx number(3),
+  ss number(3),
+  foreign key(ss) references XXX_t(x)
+);
+
+select * from XXX_t1
+
+insert all
+into XXX_t1(xx, ss) values ( 1, 500)
+into XXX_t1(xx, ss) values ( 2, 500)
+into XXX_t1(xx, ss) values ( 3, 500)
+select * from dual
+commit
+
+select x, ss
+from XXX_t left outer join XXX_t1
+on XXX_t.x = XXX_t1.ss
+
+select x, ss
+from XXX_t right outer join XXX_t1
+on XXX_t.x = XXX_t1.ss
+
+select x, ss
+from XXX_t inner join XXX_t1
+on XXX_t.x = XXX_t1.ss
+
+drop table XXX_t
+drop table XXX_t1
+
+
+
+
+
